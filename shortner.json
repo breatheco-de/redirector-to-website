@@ -1,11 +1,11 @@
 [
     {
-        "referrer": "mdc.4geeksacademy.com",
+        "referrer": "4geeksacademy.co",
         "status": "permanent",
-        "to": "https://www.mdc.edu/ce/badges/fullstack.aspx"
+        "to": "https://4geeksacademy.com"
     },
     {
         "status": "permanent",
-        "to": "https://www.mdc.edu/ce/badges/fullstack.aspx"
+        "to": "https://4geeksacademy.com"
     }
 ]
